@@ -1,2 +1,6 @@
 working file...
+<<<<<<< Updated upstream
 not commited
+=======
+modify 1
+>>>>>>> Stashed changes
